@@ -137,6 +137,9 @@ let g:UltiSnipsJumpBackwardTrigger = '<C-k>'
 " If you want :UltiSnipsEdit to split your window.
 let g:UltiSnipsEditSplit="vertical"
 
+" Define UltiSnips custom snippet directory
+let g:UltiSnipsSnippetDirectories=['ulti-snips']
+
 " ====================================================================================
 " COC SETTINGS
 " ====================================================================================
